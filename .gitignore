@@ -1,3 +1,4 @@
 *.csv
 iframe_figures/*
 *.json
+.env
